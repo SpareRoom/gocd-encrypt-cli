@@ -1,4 +1,4 @@
-# gocd-api-to-json-config
+# gocd-encrypt-cli
 
 Tool for encrypting values with the GOCD encryption API via the CLI for insertion into GOCD yml config files.
 
